@@ -1,0 +1,10 @@
+List.c
+ListClient.c
+Lex.c
+List.h
+Makefile
+README
+
+
+
+In this program we use insertion sort to lexigraphically order an array index into a doubly linked list, which we then used to print out the
